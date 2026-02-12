@@ -66,5 +66,15 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-02-12 at 10 42 55 PM](https://github.com/user-attachments/assets/54e499e7-a444-4aeb-b6dc-4dda05acc539)
+
 ## Output
+![WhatsApp Image 2026-02-12 at 10 42 55 PM (1)](https://github.com/user-attachments/assets/658ec635-3134-4033-bd5d-e8a4482e2801)
+at 2 ohm
+![WhatsApp Image 2026-02-12 at 10 49 15 PM](https://github.com/user-attachments/assets/5f6cecec-f1c3-4a60-a7c7-00c083d43a0f)
+at firing angle to 90 degree
+![WhatsApp Image 2026-02-12 at 10 57 58 PM](https://github.com/user-attachments/assets/a5010bc2-1c56-476c-866a-df05055336ac)
+
+
 ## Result
+   Thus design, simulation and analyse a full wave rectifier controlled by thyristors using MATLAB Simulink is verified.
