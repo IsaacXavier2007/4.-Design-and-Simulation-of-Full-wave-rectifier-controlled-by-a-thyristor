@@ -66,5 +66,16 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-03-18 at 8 18 12 PM](https://github.com/user-attachments/assets/c3c2922a-3336-49dc-aa2f-a1fa8c6b7ef6)
+
 ## Output
+![WhatsApp Image 2026-03-18 at 8 18 42 PM](https://github.com/user-attachments/assets/4b9fb875-9e57-4aac-b0f6-5e83f1d2c719)
+at 2 ohm resistance:
+![WhatsApp Image 2026-03-18 at 8 24 10 PM](https://github.com/user-attachments/assets/1030d08b-253f-48e3-9544-4607c0495b85)
+at firing angle to 90 degree:
+![WhatsApp Image 2026-03-18 at 8 27 07 PM](https://github.com/user-attachments/assets/9ff28ef8-e1b7-44fc-a403-dd3c51664a1f)
+
+
+
 ## Result
+Thus, this experiment will be verified successfully.
